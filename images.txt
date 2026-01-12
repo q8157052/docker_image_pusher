@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #teamspeak
 teamspeak:latest
+#home_assistant
+home-assistant:latet
